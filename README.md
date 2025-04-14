@@ -38,6 +38,8 @@ K-Means Clustering
 Principal Component Analysis (PCA)
 
 📝 Author
-* Camilo Delgado Burbano *
+Camilo Delgado Burbano 
+
 Pontificia Universidad Javeriana – Bogotá
+
 Industrial Engineering
