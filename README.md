@@ -5,4 +5,4 @@ A collection of unsupervised learning exercises and mini-projects.
 ## 📁 Projects
 
 - [Credit Card Clustering](./CreditCardClustering)
-- [Customer Segmentation](./CustomerSegmentation)  <!-- si agregas otra carpeta después -->
+- [Recommendation System InstaCart](./InstaCart_Recommendation)  <!-- si agregas otra carpeta después -->
