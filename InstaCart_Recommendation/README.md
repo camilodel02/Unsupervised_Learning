@@ -37,21 +37,21 @@ Applied minimum thresholds of:
 ### 📌 Clustering (K-Means)
 Used to segment users based on:
 
--Order frequency
--Time of day/week
--Product types/categories
--Features were normalized prior to applying the algorithm.
--Elbow method used to determine optimal number of clusters (k).
+- Order frequency
+- Time of day/week
+- Product types/categories
+- Features were normalized prior to applying the algorithm.
+- Elbow method used to determine optimal number of clusters (k).
 
 ## 📈 Results
 🧾 Association Rules (Apriori)
 Common product combinations discovered:
--Bananas & Organic Strawberries
--Whole Milk & Eggs
+- Bananas & Organic Strawberries
+- Whole Milk & Eggs
 High-lift rules identified actionable opportunities for:
--Bundle Promotions
--Product Placement
--Cross-sell strategies
+- Bundle Promotions
+- Product Placement
+- Cross-sell strategies
 
 ## 👥 K-Means Cluster Summaries
 * Group 0: Monthly shoppers (mostly Mondays) with consistent orders focused on dairy, drinks, cleaning, and personal care. Recommend monthly bundles.
