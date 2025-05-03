@@ -1,1 +1,8 @@
-This repository contains Unsupervised Machine Learning projects I have developed. Most of the datasets were downloaded from Kaggle, if not, inside each folder there are the necessary datasets
+# Unsupervised Learning Projects
+
+A collection of unsupervised learning exercises and mini-projects.
+
+## 📁 Projects
+
+- [Credit Card Clustering](./CreditCardClustering)
+- [Customer Segmentation](./CustomerSegmentation)  <!-- si agregas otra carpeta después -->
