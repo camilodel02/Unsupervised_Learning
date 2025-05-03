@@ -24,9 +24,9 @@ Evaluation: Optimal number of clusters determined using Elbow Method and Silhoue
 Business Recommendations: Strategies aligned with the 4Ps and cost-benefit analysis for each customer segment.
 
 ## 📁 Files
-CreditCardUsage.ipynb: Full code implemented in Google Colab.
+[CreditCardUsage.ipynb](./CreditCardUsage.ipynb): Full code implemented in Google Colab.
 
-Customer_Segmentation_Report.pdf: Final business report in English.
+[Customer_Segmentation_Report](./Customer_Segmentation_Report.pdf): Final business report in English.
 
 ## 📌 Technologies
 Python (Pandas, Scikit-learn, Matplotlib)
